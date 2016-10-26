@@ -1,0 +1,5 @@
+C:\Repositories\DesktopApp\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe.config
+C:\Repositories\DesktopApp\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe
+C:\Repositories\DesktopApp\ExampleApp\ExampleApp\bin\Debug\ExampleApp.pdb
+C:\Repositories\DesktopApp\ExampleApp\ExampleApp\obj\Debug\ExampleApp.exe
+C:\Repositories\DesktopApp\ExampleApp\ExampleApp\obj\Debug\ExampleApp.pdb
