@@ -3,3 +3,5 @@ C:\Repositories\DesktopApp\ExampleApp\ExampleApp\bin\Debug\ExampleApp.exe
 C:\Repositories\DesktopApp\ExampleApp\ExampleApp\bin\Debug\ExampleApp.pdb
 C:\Repositories\DesktopApp\ExampleApp\ExampleApp\obj\Debug\ExampleApp.exe
 C:\Repositories\DesktopApp\ExampleApp\ExampleApp\obj\Debug\ExampleApp.pdb
+C:\Repositories\DesktopApp\ExampleApp\ExampleApp\bin\Debug\AsciiArt.dll
+C:\Repositories\DesktopApp\ExampleApp\ExampleApp\obj\Debug\ExampleApp.csprojResolveAssemblyReference.cache
